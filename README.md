@@ -13,5 +13,5 @@ Adds a new drop to husks that can be used to make renewable sand.
 Also, before anyone asks:
 <ol>
   <li>This is a Fabric Mod.</li>
-  <li>I most likely won't port it to Forge (I barely even know how Fabric works).</li>
+  <li>I most likely won't port it to Forge (I barely even know how Fabric modding works).</li>
 </ol>
