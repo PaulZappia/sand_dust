@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "sand_dust",
+  "version": "${version}",
+  "name": "Sand Dust",
+  "description": "Adds a new drop to husks that can be used to make renewable sand.",
+  "authors": [
+    "Paul_Z"
+  ],
+  "contributors": [],
+  "contact": {
+    "homepage": "https://github.com/PaulZappia/sand_dust",
+    "sources": "https://github.com/PaulZappia/sand_dust"
+  },
+  "license": "MIT",
+  "icon": "assets/sand_dust/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.paulzappia.Sand_Dust"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "sand_dust.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  }
+}
