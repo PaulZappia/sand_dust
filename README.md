@@ -1,7 +1,7 @@
 <h1 align="center">Sand Dust</h1>
 <p align="center">
 Adds a new drop to husks that can be used to make renewable sand.
-  <img src="https://i.imgur.com/pE60u7o.png" alt="Screenshot of Sand Dust"/>
+  <img src="https://i.imgur.com/3bzF7J8.gif" alt="Screenshot of Sand Dust"/>
 </p>
 <h2 align="center">Crazy, I know.</h2>
 
