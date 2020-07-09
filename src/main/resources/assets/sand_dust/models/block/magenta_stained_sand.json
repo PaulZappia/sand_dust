@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sand_dust:block/magenta_stained_sand"
+  }
+}
