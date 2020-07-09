@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "sand_dust:purple_sand_dust"
+        }
+    },
+    "result": {
+        "item": "sand_dust:purple_stained_sand",
+        "count": 1
+    },
+    "group": "stained_sand"
+
+}

@@ -1,0 +1,36 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_sand": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:sand"
+                    }
+                ]
+            }
+        },
+        "has_dye": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:lime_dye"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_sand",
+			"has_dye"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "sand_dust:lime_stained_sand"
+        ]
+    }
+}

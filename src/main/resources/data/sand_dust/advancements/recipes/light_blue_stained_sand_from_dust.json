@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "sand_dust:light_blue_sand_dust"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_item"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "sand_dust:light_blue_stained_sand_from_dust"
+        ]
+    }
+}
