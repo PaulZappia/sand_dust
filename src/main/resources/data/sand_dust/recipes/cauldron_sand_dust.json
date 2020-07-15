@@ -1,0 +1,10 @@
+{
+    "type": "nbtcrafting:cauldron",
+    "input": {
+        "tag": "sand_dust:coloured_sand_dust"
+    },
+    "result": {
+        "item": "sand_dust:sand_dust"
+    },
+    "levels": 0
+}

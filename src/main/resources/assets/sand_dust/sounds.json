@@ -1,0 +1,8 @@
+{
+  "sand_sound": {
+	"subtitle": "subtitles.sand_dust.sand_sound",
+    "sounds": [
+      "sand_dust:sand_sound"
+    ]
+  }
+}

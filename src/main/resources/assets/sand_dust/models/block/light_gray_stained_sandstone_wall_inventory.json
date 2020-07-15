@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "sand_dust:block/stained_sandstone/light_gray_stained_sandstone"
+  }
+}

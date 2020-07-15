@@ -1,0 +1,38 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_dust": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "sand_dust:sand_dust"
+                    }
+                ]
+            }
+        },
+        "has_bottle": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:glass_bottle"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_dust",
+			"has_bottle"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "sand_dust:bottled_sand/bottled_sand_weak",
+			"sand_dust:bottled_sand/bottled_sand_moderate",
+			"sand_dust:bottled_sand/bottled_sand_strong"
+        ]
+    }
+}

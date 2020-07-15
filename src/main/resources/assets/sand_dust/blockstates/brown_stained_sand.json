@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "sand_dust:block/brown_stained_sand"
+      },
+      {
+        "model": "sand_dust:block/brown_stained_sand",
+        "y": 90
+      },
+      {
+        "model": "sand_dust:block/brown_stained_sand",
+        "y": 180
+      },
+      {
+        "model": "sand_dust:block/brown_stained_sand",
+        "y": 270
+      }
+    ]
+  }
+}

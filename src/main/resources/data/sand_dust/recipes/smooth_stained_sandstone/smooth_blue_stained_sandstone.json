@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "sand_dust:blue_stained_sandstone"
+  },
+  "result": "sand_dust:smooth_blue_stained_sandstone",
+  "experience": 0.1,
+  "cookingtime": 200
+}

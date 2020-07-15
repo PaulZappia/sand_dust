@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "sand_dust:item/gray_sand_dust"
+    }
+}

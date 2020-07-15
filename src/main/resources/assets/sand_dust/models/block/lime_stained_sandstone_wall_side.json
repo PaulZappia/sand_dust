@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "sand_dust:block/stained_sandstone/lime_stained_sandstone"
+  }
+}

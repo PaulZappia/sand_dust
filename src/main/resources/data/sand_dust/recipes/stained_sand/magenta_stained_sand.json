@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "stained_sand",
+	"pattern": [
+        "###",
+        "#D#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sand"
+        },
+        "D": {
+            "item": "minecraft:magenta_dye"
+        }
+    },
+    "result": {
+        "item": "sand_dust:magenta_stained_sand",
+        "count": 8
+    }
+}

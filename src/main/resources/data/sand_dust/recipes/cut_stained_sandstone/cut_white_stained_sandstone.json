@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "sand_dust:white_stained_sandstone"
+    }
+  },
+  "result": {
+    "item": "sand_dust:cut_white_stained_sandstone",
+	"count": 4
+  }
+}

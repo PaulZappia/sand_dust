@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "sand_dust:black_stained_sandstone"
+  },
+  "result": "sand_dust:black_stained_sandstone_wall",
+  "count": 1
+}

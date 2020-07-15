@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "sand_dust:green_stained_sand"
+    }
+  },
+  "result": {
+    "item": "sand_dust:green_stained_sandstone"
+  }
+}

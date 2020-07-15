@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sand_dust:sand_dust"
+        },
+        {
+            "item": "sand_dust:sand_dust"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        },
+        {
+            "item": "minecraft:dragon_breath"
+        }
+    ],
+    "result": {
+        "item": "sand_dust:bottled_sand_moderate",
+        "count": 3
+    },
+    "group": "bottled_sand"
+}

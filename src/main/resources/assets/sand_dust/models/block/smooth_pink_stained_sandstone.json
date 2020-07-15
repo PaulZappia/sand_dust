@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "sand_dust:block/stained_sandstone/pink_stained_sandstone_top"
+  }
+}

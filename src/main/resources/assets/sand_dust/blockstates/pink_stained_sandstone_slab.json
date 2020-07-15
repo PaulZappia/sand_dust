@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sand_dust:block/pink_stained_sandstone_slab"
+    },
+    "type=double": {
+      "model": "sand_dust:block/pink_stained_sandstone"
+    },
+    "type=top": {
+      "model": "sand_dust:block/pink_stained_sandstone_slab_top"
+    }
+  }
+}

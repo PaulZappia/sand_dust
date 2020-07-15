@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "sand_dust:block/stained_sandstone/black_stained_sandstone_bottom",
+    "top": "sand_dust:block/stained_sandstone/black_stained_sandstone_top",
+    "side": "sand_dust:block/cut_stained_sandstone/cut_black_stained_sandstone"
+  }
+}

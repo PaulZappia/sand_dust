@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values" : [
+      "sand_dust:white_stained_sandstone_wall",
+      "sand_dust:yellow_stained_sandstone_wall",
+      "sand_dust:red_stained_sandstone_wall",
+	  "sand_dust:purple_stained_sandstone_wall",
+	  "sand_dust:pink_stained_sandstone_wall",
+	  "sand_dust:orange_stained_sandstone_wall",
+	  "sand_dust:magenta_stained_sandstone_wall",
+	  "sand_dust:lime_stained_sandstone_wall",
+	  "sand_dust:light_gray_stained_sandstone_wall",
+	  "sand_dust:light_blue_stained_sandstone_wall",
+	  "sand_dust:green_stained_sandstone_wall",
+	  "sand_dust:gray_stained_sandstone_wall",
+	  "sand_dust:cyan_stained_sandstone_wall",
+	  "sand_dust:brown_stained_sandstone_wall",
+	  "sand_dust:blue_stained_sandstone_wall",
+	  "sand_dust:black_stained_sandstone_wall"
+  ]
+} 
